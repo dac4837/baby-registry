@@ -1,0 +1,20 @@
+{
+  "short_name": "Baby Registry",
+  "name": "Catherine and David's baby registry",
+  "icons": [
+    {
+      "src": "icon-small.png",
+      "sizes": "75x75",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
